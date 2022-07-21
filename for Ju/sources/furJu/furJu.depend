@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607787003 source:d:\julien\documents\web\for ju\sources\furju\main.c
+	<stdio.h>
+	<stdlib.h>
+

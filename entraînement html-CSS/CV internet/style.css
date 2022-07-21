@@ -1,0 +1,18 @@
+body
+{
+    background-color: black; /* Le fond de la page sera noir */
+    color: white; /* Le texte de la page sera blanc */
+	font-family : trebuchet MS ;
+	text-align : left ;
+	color : rgb(192,192,192);
+}
+
+h1
+{
+	color : rgb(50,90,224);
+}
+
+h2
+{
+	color : rgb(10,214,224);
+}

@@ -1,0 +1,14 @@
+<table>
+    <tr>
+        <?php foreach($arres as $key=>$val): ?>
+            <th><?=$key?></th>
+        <?php endforeach; ?>
+    </tr>
+    <?php foreach($arres as $tuple): ?>
+        <tr>
+        <?php foreach($tuple as $key=>$val): ?>
+            <td><?=$val?></td>
+        <?php endforeach; ?>
+        </tr>
+    <?php endforeach; ?>
+</table>

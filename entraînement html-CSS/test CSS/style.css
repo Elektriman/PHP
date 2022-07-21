@@ -1,0 +1,32 @@
+/*
+style.css
+*/
+h1, em
+{
+	color: red;
+}
+
+.paragraphe1
+{
+	color: green;
+}
+
+#espace
+{
+	letter-spacing: 2px;
+}
+
+h2+p
+{
+	color: orange;
+}
+
+a[title*=lecteurs]
+{
+	font-size: 50px
+}
+
+.imageflottante
+{
+    float: left;
+}
